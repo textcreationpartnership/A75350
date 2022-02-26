@@ -1,0 +1,640 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lancashires valley of Achor, is Englands doore of hope: set wide open, in a brief history, of the wise, good, and powerfull hand of divine providence, ordering and managing the militia of Lancashire; not onely to the preservation, but exaltation of a poor, and praying people, in two hundreds; against, and above a considerable armie, of popish, and ill-affected persons in foure hundreds: Wherein the strift [sic] of piety and providence, with impiety and humane strength, in the weaknesse of means, unto graduall, and compleate victory, is laid out; to advance gods praise, and advantage Englands faith. By a well-wisher to the peace of the land, and piety of the church.</title>
+            <author>Angier, John, 1605-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75350</idno>
+            <idno type="STC">Wing A3165</idno>
+            <idno type="STC">Thomason E67_39</idno>
+            <idno type="STC">ESTC R12056</idno>
+            <idno type="EEBO-CITATION">99859195</idno>
+            <idno type="PROQUEST">99859195</idno>
+            <idno type="VID">111264</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75350)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111264)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E67[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lancashires valley of Achor, is Englands doore of hope: set wide open, in a brief history, of the wise, good, and powerfull hand of divine providence, ordering and managing the militia of Lancashire; not onely to the preservation, but exaltation of a poor, and praying people, in two hundreds; against, and above a considerable armie, of popish, and ill-affected persons in foure hundreds: Wherein the strift [sic] of piety and providence, with impiety and humane strength, in the weaknesse of means, unto graduall, and compleate victory, is laid out; to advance gods praise, and advantage Englands faith. By a well-wisher to the peace of the land, and piety of the church.</title>
+                  <author>Angier, John, 1605-1677.</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Luke Fawne, and are to be sold at his shop in Pauls Churchyard, at the signe of the Parrot,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A detailed account of military and political action in Lancashire in 1643.</note>
+                  <note>Written by John Angier. cf. NUC pre-1956.</note>
+                  <note>Annotation on Thomason copy: "Sept: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lancashire (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111264:1" rendition="simple:additions"/>
+            <p>LANCASHIRES Valley of <hi>ACHOR,</hi> IS Englands <hi>Doore of Hope:</hi> Set wide open, in a brief Hiſtory, of the Wiſe, Good, and Powerfull hand of Divine Provi<g ref="char:EOLhyphen"/>dence, Ordering and Managing the <hi>Militia</hi> of <hi>Lancaſhire;</hi> Not onely to the Preſervation, but Exaltation of a Poor, and Praying people, in two <hi>Hundreds;</hi> Againſt, and above a conſiderable Armie, of Popiſh, and ill-affected perſons in foure <hi>Hundreds:</hi> Wherein the ſtrift of Piety and Providence, with impiety and humane ſtrength, in the weakneſſe of means, unto graduall, and compleate Victory, is laid out; to advance Gods praiſe, and advantage <hi>Englands</hi> Faith.</p>
+            <p>
+               <hi>By a well-wiſher to the peace of the Land, and piety of the Church.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Iſa. 8.9, 10.</hi>
+               </bibl> Aſſociate your ſelves, O ye people, and ye ſhall be broken in pieces, gird yourſelves, and ye ſhall be broken in pieces, gird your ſelves, and ye ſhall be broken in pieces. Tak councell together, and it ſhall come to nought, ſpeak the word and it ſhall not ſtand, for God is with us.</q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 46.7, 11.</hi>
+               </bibl> The Lord of hoſts is with us, the God of Iacob is our refuge. <hi>Selah.</hi> The Lord of hoſts is with us, the God of Iacob is our refuge. <hi>Selah.</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Jer. 30.16, 17</hi>
+               </bibl> Therefore all they that devoure thee, ſhall be devoured, and all thine adverſaries, every one of them ſhall go into captivity and they that ſpoil thee ſhall be a ſpoil, and all that prey upon th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e will I give for a prey. For I will reſtore health unto thee, and I will heal thee of thy wounds, ſaith the Lord, becauſe they called thee an out-caſt, ſaying, This is Zion, whom no man ſeeketh after.</q>
+            <p>LONDON: Printed for <hi>Luke Fawne,</hi> and are to be ſold at his Shop in <hi>Pauls</hi> Churchyard, at the ſigne of the Parrot. 1643.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:111264:2"/>
+            <pb facs="tcp:111264:2"/>
+            <head>THE EPISTLE To the Reader.</head>
+            <opener>
+               <salute>Good Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hou haſt a willing (though weake) Diſcoverie of Gods foot ſteps in <hi>Lancaſhire,</hi> according to beſt informa<g ref="char:EOLhyphen"/>tion. Some ornaments of the Hiſtory were laid aſide for reſerved <hi>Reaſons.</hi> Gods Praiſe, and thy Profit were ſpe<g ref="char:EOLhyphen"/>cially intended. Pray that the means
+<pb facs="tcp:111264:3"/>may be aſsiſted to theſe ends: So ſhalt thou ingage, to adde, or alter, upon Information, what may honour God, and helpe thee. I have perfor<g ref="char:EOLhyphen"/>med what was proper to mine own pro<g ref="char:EOLhyphen"/>feſsion, leaving the Souldiers part, wherein men, and things were notable, to the Souldiers performance.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:111264:3"/>
+            <head>
+               <hi>LANCASHIRES</hi> Houre of ſad Temptation, AND Joyfull Iſſue.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Ods eternall Counſells about his Church, are in time turned into Promiſes, Promiſes into Pray<g ref="char:EOLhyphen"/>ers, Prayers into Providences, and Providences into Praiſes. Providence is the glaſſe of Gods Attributes, and Promiſes, of the Saints grace, Graces and Prayers: It is the wealth and wa<g ref="char:EOLhyphen"/>ges of time preſent, the treaſure and incouragement of time fu<g ref="char:EOLhyphen"/>ture. The recording of providences is not the leaſt portion of Gods praiſe, of our duty, of poſterities patrimony.</p>
+            <p>The free, and full, and joynt trading of ſpirituall Merchants, in the precious commodity of Prayers in theſe laſt yeers, (wherein ſin in the enemies, and grace in the Saints ſtrove for victory) was ſure to bring in with returns. Is it not even ſo? Let <hi>Scotland</hi> ſpeak, <hi>England,</hi> the City, the Parliament. And can <hi>Lancaſhire</hi> ſay nothing? I am charged to bring in this Teſtimony, which I ſhall do (God ſhining upon my way) orderly and clearly, ac<g ref="char:EOLhyphen"/>cording to beſt information.</p>
+            <p>The wiſe God (reſolved to raiſe a double-glorious work in this forlorne Countie, of ruine to the evil, and of reſt to the good) forelaid a double-foundation, of ſin in the enemy, and humi<g ref="char:EOLhyphen"/>liation in his people. That was a <hi>Series</hi> of injuſtice, with the ef<g ref="char:EOLhyphen"/>fects and attendants: This a courſe of repentance in publike Faſting and Prayer; both held paralell from firſt to laſt.</p>
+            <pb n="2" facs="tcp:111264:4"/>
+            <p>The much to-be-lamented Lord <hi>Strange</hi> (not of his native diſpoſition (as is hoped (if the height of the Sail did not over<g ref="char:EOLhyphen"/>top the Ship) <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut through the force of evil Councels, (the com<g ref="char:EOLhyphen"/>mon calamity of great perſonages) was carried down thoſe ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong ſtreams of Arbitrary government, and advance of Popery. Witneſſe his Taxations as <hi>Lord-Lieutenant,</hi> his Popiſh offi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers, his injurious i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ding in the election of K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ights, &amp;<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. The injured, petition the the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> exact and dreadfull Court of Juſtice, inforce their P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tition by Declaration. The wiſdom of that juſt Court (at once to expreſſe their diſrelliſh of theſe doings, but hopes of that no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le perſon notwithſtanding) do ſubſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>act the power of <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncaſhir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and caſt in the power of <hi>Cheſhire.</hi> But correction is grievous to him that forſaketh the way. When <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt and moderate ſenten<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> prov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the food of corruption, it gathers ſudden and great ſtrength. He that formerly withdrew his in<g ref="char:EOLhyphen"/>fluence from the County, now denies it to the Kingdom, leaves the Houſe of <hi>Loras,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reaks that honourable Union, increaſeth the Diſſention, joyns with the <hi>North</hi> againſt the <hi>South,</hi> receives Commiſſion from the <hi>King</hi> to croſſe the <hi>Parliament,</hi> ſeeketh to ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ject and inſlave them (the beſt amends the oppreſſed muſt ex<g ref="char:EOLhyphen"/>pect if ſtrength prevail) who had given no cauſe, ſave onely they complained th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y were wronged, and ſought redreſſe. The ſpirit of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommiſſion will not ſuffer it to reſt: There muſt be a generall <hi>Muſter</hi> at <hi>Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſton,</hi> the people muſt be thruſt into a croud, that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y who deſire, might ſecurely rob them of their <hi>Mag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zin,</hi> repoſed (as their proper goods) in <hi>Liver-pool, Pre<g ref="char:EOLhyphen"/>ſto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton.</hi> Herein the <hi>Lord</hi> himſelf, the Sheriff, the Com<g ref="char:EOLhyphen"/>miſſione<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, had and acted their ſeverall parts with ſucceſſe, little imagining that ſo cloſe a buſineſſe ſhould be told in <hi>Manch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter.</hi> But <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bs</hi> meſſenger eſcapes to bring tidings, though but ſad. Now a Ray of divine Providence brake forth, in the wiſe and peace<g ref="char:EOLhyphen"/>able way of ſecuring <hi>Mancheſter Magazine;</hi> which was this; The well-affected in <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſter</hi> and thereabouts, appear in the following Petition to the <hi>Committee</hi> and <hi>Deputy-Lieutenants.</hi>
+            </p>
+            <q>
+               <pb n="3" facs="tcp:111264:4"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Right Worſhipfull, they of the Committee, and the reſt Deputy-Lieutenants, entruſted by the Honourable Houſes of Parliament, for the <hi>Militia</hi> of the County Palatine of <hi>Lancaſter.</hi>
+                        </head>
+                        <p>
+                           <hi>WEE, whoſe hands are hereto ſubſcribed, apprehending emi<g ref="char:EOLhyphen"/>nent and imminent danger concerning the Magazine here in</hi> Mancheſter, <hi>do humbly beſeech your Worſhips to give command (if in your judgem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nts you think fit) That the ſame may be removed from the preſent place of fear, and placed where you may confide. And upon intimution thereof, we are all unanimouſly concluded to be ayding and aſſiſting in the execution thereof; we humbly conceiving our proper intereſts to be in it, not onely as ſubjects, but alſo as ha<g ref="char:EOLhyphen"/>ving born our proportioable parts of charge in procuring the ſame. And we ſhall ever pray, &amp;c.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This preventing Petition found this ſatisfying Anſwer.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <p>
+                           <hi>WHereas there have been heretofore divers great Leavies of Moneys laid upon this County of</hi> Lancaſter <hi>by the Lord</hi> Strange, <hi>late Lord-Lieutenant of the ſaid County, and his Deputy-Lieutenants; for their manner of diſpoſing of which, they have been pleaſed to give an account unto us, and have repayed ſeverall Sums of money in ſome parts of this County, acknowledged by the account to be in their hands th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>n undiſpoſed of; and by their ſaid account did aver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>, They had beſtowed</hi> 440 <hi>pounds in Powder, Match, and the like Ammunition, which they delivered up in ſe<g ref="char:EOLhyphen"/>verall Towns of this County, in other part of re-payment of the ſaid moneys ſo l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>avied by them. And whereas the Sheriff of this Coun<g ref="char:EOLhyphen"/>ty, and ſome others, have lately ſeiz<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>d into their hands and poſſeſſion the ſaid Powder, Match and Ammunition in the Towns of</hi> Preſton <hi>and</hi> Leverpoole, <hi>and have threatned and attempted to do the like in</hi> Mancheſter, <hi>without givi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>g any account, either by what Authori<g ref="char:EOLhyphen"/>ty, or for what uſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>, they did and do the ſame: We therefore tender<g ref="char:EOLhyphen"/>ing our own inter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſt, and poſſ ſſion of this ſmall remainder left at</hi> Mancheſter, <hi>have thought good to take it into our hands, for the de<g ref="char:EOLhyphen"/>fence of the King, both Houſes of Parliament, and this County of</hi> Lancaſter.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="6" facs="tcp:111264:5"/>
+            <p>Thus wiſdom and honeſty, in a way of manifeſt authoritie, got the leading of ſubtiltie and injuſtice; the Snare at laſt is broken, and a Seed of defence happily ſowne. But if <hi>Mancheſter</hi> will not be cheated of their <hi>Magazine,</hi> they ſhall be forcibly diſpoiled; Forces are ſummoned to <hi>Bury</hi> for that end, but the confluence of the well-affected to <hi>Mancheſter</hi> for defence, did them the favour of diſiniſſion for that time: And leſt this buſineſſe ſhould ap<g ref="char:EOLhyphen"/>pear in its own colours, it is coloured over by a meeting of the <hi>Array</hi> at <hi>Wigan;</hi> the ſleeping <hi>Magazen</hi> is adjudged to travell, part to <hi>Bury,</hi> part to <hi>Ratchdale,</hi> and part to lie in <hi>Mancheſter,</hi> up<g ref="char:EOLhyphen"/>on an order from the King, publiſhed at <hi>Mancheſter</hi> Croſſe to that purpoſe: Under this new colour the Lord <hi>Strange</hi> returns with his Forces to <hi>Bury,</hi> calls a ſecond Muſter; ſome of the Towne of <hi>Mancheſter,</hi> and thereabouts, (more forward in this than forecited) attend his Honour, think to make all well by in<g ref="char:EOLhyphen"/>gaging themſelves to buy ſo much Powder, and lay it in the empty place, and to ſweeten and ſink all former bitter and clog<g ref="char:EOLhyphen"/>ging paſſages, they invite him to a Banquet, upon condition that he come peaceably with his own attendance; they unhappily forgetting, or not conſidering, that it was not a little Powder that was ſought, or the ſubmiſſion of a few fearfull men, but a Town, and not a Town onely, but a County, nor that onely, but the honourable rule and government of it; things out of the teach of their arm, but hopefully within the compaſſe of his own power. According to this deſire, (not according to the condition) was the march for <hi>Mancheſter</hi> ordered; his Ho<g ref="char:EOLhyphen"/>nour came attended with many Horſe, they entred the Towne in an Hoſtile and inſulting manner, with cocked Piſtols, and ſhouts, that the town was their own, their own. The Sheriffe reade the Commiſſion of <hi>Array,</hi> which evidenced a compoſition for War, not for Peace. Some wiſe and well affected, (foreſee<g ref="char:EOLhyphen"/>ing what others did not beleeve, till they ſadly ſaw) had laid in ſome Muſquetteers and Pikemen againſt ſuch a time, reſolving to lie hid, if not forced out of Peace. But the unconditioned car<g ref="char:EOLhyphen"/>riage of theſe in-comers, beats the Drum, to bring our men in ſight, onely to put them in remembrance of the conditions agreed on: They will not remember, but forcibly ride upon our men, give them courſe language, ſtrive to diſarm them, ſorely
+<pb n="5" facs="tcp:111264:5"/>wound one, and cruelly ſlay another; and had not God merci<g ref="char:EOLhyphen"/>fully ſent water from heaven to quench this fire, and moved them to be the Peace-keepers, which were not the peace-conluders, they that have ſince ſought our blood, had themſelves been ſatis<g ref="char:EOLhyphen"/>fied with blood. But bleſſed be God that heaven and earth did concurre to quiet this dangerous Commotion. Let <hi>Mancheſter</hi> and the neighbourhood never forget how their hands were bleſt from blood, whileſt the hands of thoſe that ſtrove with them, were imbrued therein. By this time the <hi>Array</hi> had gotten enough done; the unappeaſable crie of blood is againſt them, ſeconded by the bitter crie of ſome truly pious in the Town, who were in extreme danger to be pulled in pieces, they and their houſes, by the part-taking and incenſed Raſcalitie, the admirers and ado<g ref="char:EOLhyphen"/>rers of greatneſſe, being feaſted with the Crummes that fall from their Tables.</p>
+            <p>God fore-appointing the hour of Temptation, and reſolving in a courſe of ordinary (though to us unuſuall,) means, to ſhew us his ſalvation, ſent a man before, a skilfull and faithfull <hi>Engi<g ref="char:EOLhyphen"/>neer,</hi> to be ready to concur with our neceſſitie, and deſire, to take courſe for our own defence, which now will admit neither diſ<g ref="char:EOLhyphen"/>pute nor delay. This prepared and provided inſtrument is enter<g ref="char:EOLhyphen"/>tained, fals to artificiall and reſtleſſe motion, till the Mud-wals at the ſeverall paſſages were finiſhed, when God gave an Alarum from the plundering, diſarming Array in <hi>Cheſhire, Sept.</hi> 13. being <hi>Tueſday,</hi> to heighten the ſpirits of the well-affected in the Town, above the oppoſition of the male-content, that the oppoſed ſtoopes might be ſet down, and the chaines, coupling the Works, compleated, he well-knowing they had almoſt as much work to do, as time to do it in. All this time that God was contriving our preſervation in a way of probable meanes, <hi>Satan</hi> in a con<g ref="char:EOLhyphen"/>trary courſe was plotting our ſubjection or deſolation, and when the door of our defence was once ſhut, not before, (oh the waking watchull providence of God!) but preſently after the floodgates of our oppoſition were opened; for it was about <hi>Friday</hi> night, <hi>Sept.</hi> 23. ere the Works were finiſhed, and the Lord appeared on <hi>Sabbath</hi>-day morning, and it was <hi>Friday</hi> night, if not <hi>Saturday</hi>
+               <pb n="6" facs="tcp:111264:6"/>night, ere the defendants were anchored againſt windes and waves.</p>
+            <p>Thus we are come to <hi>Mancheſter</hi> Seige, of which I will not give a full and particular account, becauſe it is already per<g ref="char:EOLhyphen"/>formed by ſeverall good hands; onely obſerve three things;</p>
+            <list>
+               <item>1. The time in which it fell out.</item>
+               <item>2. The ſeverall temptations in it, with their Iſſues.</item>
+               <item>3. And ſome remarkable paſſages.</item>
+            </list>
+            <p>THe time when it began was <hi>September</hi> the five and twen<g ref="char:EOLhyphen"/>tieth, the Sabbath day, about nine of the Clock, Church<g ref="char:EOLhyphen"/>time. God was fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ced, as ſometimes <hi>Paul, Galath.</hi> 4.20. to change his voice, to awaken and enliven his ſleepie and dead-hearted people. Sabbath-dayes Alarums, of all Alarums, are ne<g ref="char:EOLhyphen"/>ver to be forgotten. Severall Battels have been fought, and ſeve<g ref="char:EOLhyphen"/>rall Aſſaults made in ſeverall places on the Sabbath day; let <hi>England</hi> ſtudy the meaning: Our Saviour tels us there is an af<g ref="char:EOLhyphen"/>fliction in the time, <hi>Mat.</hi> 24.20. <hi>Pray that your flight be not on the Sabbath day.</hi> God hath a controverſie with the people for their Sabbath dayes ſervices. Yet obſerve the breath of the enemie. <hi>Saul</hi> breathed threatnings and ſlaughter againſt the Diſciples of the Lord: The enemies mocked at their Sabbaths; Their breath blaſteth holy perſons, times, actions. The <hi>Epiſcopall</hi> breath fetch him out of the Pulpit, ſcatters the people, ſuſpend him, ſuſpend the place. This Seige-week was unskilfully joyn'd with the Nationall Faſt-week; for thus ſuccours came into <hi>Man<g ref="char:EOLhyphen"/>cheſter</hi> from all parts of the Kingdom, Armies of Prayers, Legi<g ref="char:EOLhyphen"/>ons of Angels. The enemies Lot, ſo warily caſt, fell not unlike to <hi>Hamans</hi> Lot, <hi>Eſther</hi> 9.1. The enemies of the <hi>Jewes</hi> hoped to have power over them, but it was turned to the contrary, that the <hi>Jewes</hi> had rule over them that hated them.</p>
+            <div type="part">
+               <head>The ſeverall Temptations that ſtraightned this Siege, with their preſent and proper Iſſues, were,</head>
+               <pb n="7" facs="tcp:111264:6"/>
+               <p>
+                  <label>The Temptation.</label> 1. The unskilfulneſſe of Commanders and Souldiers, being bred and educated in a land of Peace, where no enemy was left (as ſometimes in Iſrael) to teach them warre. They knew not to take advantage, or prevent diſadvantage: They were fit to hurt themſelves, and one another, as they did. And that very day the enemy appeared, hearts were down, becauſe their number to man their works was no greater.</p>
+               <p>
+                  <label>The Iſſue.</label> But when God put the work into their hands, he put in skill, <hi>Pſal.</hi> 144.1. If ever it were given a people in that houre how to do, both hands and skill, now was the time. So that in a ſhort time (even to admiration, men of all cal<g ref="char:EOLhyphen"/>lings were skilfull, ready Fire-men. And on that five and twen<g ref="char:EOLhyphen"/>tieth of <hi>September</hi> came in new and conſiderable Forces: whereupon the ſouldiers thanked God and took courage.</p>
+               <p>
+                  <label>The Temptation.</label> 2. What the enemy cannot do by force, he will do by fraud, he ſets fire on poor houſes, and rich barnes (any thing to advance the Catholique Cauſe) hoping by the light of the fire, and darkneſſe of the ſmoke, to ſee to hit, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be hid from ſhot. Fire is a cruell Lord, and dreadfull object to freſh and low-water ſouldiers. The winde blowes right to help the enemy, to heat and blinde the aſſaulted. And now fire to fire: a fierce aſſault, to a flaming fire, will deſtroy all oppo<g ref="char:EOLhyphen"/>ſition.</p>
+               <p>
+                  <label>The Iſſue.</label> Faith, that ſometimes quenched the violence of fire, did no leſſe now. It quenched the violence of feare in our ſoul<g ref="char:EOLhyphen"/>diers, the zeale of the Work conſumed them, whileſt the fire conſumed the buildings. And though the fire heated our men to ſtrive for the Wall, and to give the more ready fire, yet the ſmoke did not hide their enemies. And when the winde had
+<pb n="8" facs="tcp:111264:7"/>blowne ſo long againſt us, that we might be ſenſible of a Turn, he that gathereth the winde in his fiſts apparantly turned it to our advantage.</p>
+               <p>
+                  <label>The Temptation.</label> 3. They had a Towne of advantage. <hi>Salford</hi> is open, affords them entertainment and aſſiſtance, proves their ſtalk<g ref="char:EOLhyphen"/>ing-horſe, brings them neere, and gives them ſhelter; faceth us, and opens them a back-door. God complains of his evil neigh<g ref="char:EOLhyphen"/>bours, <hi>Jer.</hi> 12.14.</p>
+               <p>
+                  <label>The Iſſue.</label> They ſought help by fire; God helped us by water. The rain poured down, raiſed the water, and parted the Army, neerer neighbours then <hi>Mancheſter</hi> and <hi>Salford. They fought from heaven, the Stars in their courſes fought againſt</hi> Siſera. <hi>The river Kiſhon ſwept them away, the ancient river, the ri<g ref="char:EOLhyphen"/>ver Kiſhon,</hi> Judges 5.20, 21. Hither they came, to lay their dead in ſight, and to let them lie with ſhame. The Ca<g ref="char:EOLhyphen"/>nonneer had much adoe to Charge, and more adoe to Diſ<g ref="char:EOLhyphen"/>charge. If they peeped out of the houſes, they were un<g ref="char:EOLhyphen"/>houſed.</p>
+               <p>
+                  <label>The Temptation.</label> 4. They had meanes of advantage, many roaring, thun<g ref="char:EOLhyphen"/>dering, terrifying Canons, we had but one ſmall Peece. We have heard the report of them, and our hands waxed feeble.</p>
+               <p>
+                  <label>The Iſſue.</label> The Canons did but play, they did no work, no execu<g ref="char:EOLhyphen"/>tion. They had no Commiſſion but to ſtrike thorow houſes, which could neither bleed nor weepe: Onely one Lad ſtood in their way, who was out of his own way, and (as they ſay) timely prepared by his wickedneſſe for ſuch a ſtroke. It was a wonder to ſee when they came into an houſe, what haſte they made out, as afraid there to ſtay: and how ſtrictly they kept their Lane, leſt by turning aſide, they ſhould
+<pb n="9" facs="tcp:111264:7"/>harme any in the houſe. Surely the joynt praiſes of Gods re<g ref="char:EOLhyphen"/>jo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cing people; <hi>as the voice of many waters, and as the voice of a great thunder, Rev.</hi> 14.2. did drowne the noiſe, and remove the terrour of the Canons.</p>
+               <p>
+                  <label>The Temptation.</label> 5. Though the enemies fire was quenched, and the force of their Canons broken, yet we wanted fewell, Match failed, and Powder grew ſcarce.</p>
+               <p>
+                  <label>The Iſſue.</label> He that could finde ſo many Souldiers when there was none, was not to ſeeke for one Match-maker in time of need. He findes a Common-Souldier, and makes him to finde Match.</p>
+               <p>
+                  <hi>Some Malignants houſes contributed Powder, and ſome Marched to</hi> Mancheſter <hi>from neighbour places, in the face of the enemy, who looked and fled; and againe looked and fled:</hi> They ſaw it, and ſo they marvelled, they were troubled and haſted away, fear took hold upon them there, <hi>Pſal.</hi> 48.5, 6.</p>
+               <p>
+                  <label>The Temptation.</label> 6. Though we be ſupplied with Match and Powder, yet we ſhall be overcome with waking, we want reſt, and cannot finde it.</p>
+               <p>
+                  <label>The Iſſue.</label> God gives his beloved reſt. To that end he moves the <hi>Lord</hi> to found for a Parley. Upon which, a Ceſſation of Armes is concluded, from five at Night till ſeven in the Morning, that our men might reſt, and be refreſhed. And ere this releaſe came, God (that can nouriſh without meat) gave reſt with<g ref="char:EOLhyphen"/>out ſleep. He held their eyes open, and created new ſpirits! They waked and watched from ſtrength to ſtrength. <hi>They that
+<pb n="10" facs="tcp:111264:8"/>wait upon the Lord ſhall change their ſtrength,</hi> as a man doth his ſuit, to fit a new occaſion, <hi>Iſa.</hi> 40.31.</p>
+               <p>
+                  <label>The Temptation.</label> 7. This new bodily reſt may ſerve to ſtrengthen a reſt<g ref="char:EOLhyphen"/>leſſe minde. It is now harveſt time, our Corn, the livelyhood and ſubſiſtence of our families, is in the field, ripe and groaning for the ſickle.</p>
+               <p>
+                  <label>The Iſſue.</label> Whileſt the Siege laſted againſt <hi>Mancheſter,</hi> the heavens held a ſimpathy with the well-affected in and about <hi>Mancheſter:</hi> God melted them into a wet and weeping frame. There was little harveſt weather that week: Which did evidence, the work of Gods people, did not now lie in the Field, but in the Town, in the Barn. It was not reaping work, but threaſhing work: Gods work was to Inne the Corn, their work to Threſh it: <hi>He ſhall gather them as the ſheaves into the floor; Ariſe and threſh,</hi> Micah 4.12, 13.</p>
+               <p>
+                  <label>The Temptation.</label> 8. We are defending the Town, and the Cavalliers are Plundering our houſes, or at leaſt we leave wife, children, and eſtate to their mercy. What portion have we in <hi>Mancheſter?</hi> every man to his Tent.</p>
+               <p>
+                  <label>The Iſſue.</label> O peace, private ſpirit. The people in <hi>Nehemiahs</hi> time had a minde to work, <hi>Nehem.</hi> 4.6. a ſtrong minde; and therefore the diſcouragements of the ill-affected could not weaken their hands. <hi>Mancheſter</hi>-work was publique work; and the ſpirit of the work did generally reſt upon the people: Sometimes Foot, ſometimes Horſe iſſued out, and drove in the Plunderers. Some<g ref="char:EOLhyphen"/>times the Countrey Spirit, guarded with Bills, and Staves, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ick-forks, roſe to that height, that it ſubjected horſe and man, to the wonder of the Cavaliers. Some houſes were ſafe, others wil<g ref="char:EOLhyphen"/>ling to ſuffer the leſſe, to ſave the greater.</p>
+               <pb n="11" facs="tcp:111264:8"/>
+               <p>
+                  <label>The Temptation.</label> 9. Some, ſenſible of the danger of neighbour-Villages, that had emptied all their defenſive power into <hi>Mancheſter,</hi> made motion that their lent aſſiſtance might be looſed for home, and neighbour defence, againſt the wilde and wandering Horſe. This motion ſeemed reaſonable, and by conſequent, the defence of the Town unreaſonable.</p>
+               <p>
+                  <label>The Iſſue.</label> When this Reaſon came to be handled, it proved a ſha<g ref="char:EOLhyphen"/>dow, and ſoon vaniſhed. Neare home this motion felt heavy, but abroad, where greater matters were in hand, it was found light. Private and particular intereſts are wrapped up in the Publique, not ſo much publique, in private. Heere the remembrance of Parliamentary ingagement, and an honour<g ref="char:EOLhyphen"/>able eſteem of the Publique Faith did no little availe.</p>
+               <p>
+                  <label>The Temptation.</label> 10. But after all, there is an uncertaine blaſt of the ſpirit of Faith and Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rage in our Leaders, being in the infancie of the Work; and not diſcerning (as afterward) that God had raiſed them up to be Saviours on mount <hi>Zion.</hi> This was <hi>Da<g ref="char:EOLhyphen"/>vids</hi> ſin, when he had eſcaped ſo many dangers, and was now out of purſuit, (for <hi>Saul</hi> ſought no more after him, 1. <hi>Sam.</hi> 27.4.) yet he could not beleeve his ſafet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, but feared, (though he had long eſcaped, yet) he ſhould at laſt be ta<g ref="char:EOLhyphen"/>ken, 1 <hi>Sam.</hi> 27.1. We may ſooner be free from trouble, then beleeve we are free. Troubles may come and go, but ſin will ſtick faſt.</p>
+               <p>
+                  <label>The Iſſue.</label> God kept up the Souldiering ſpirit, by Prayers and Pſalms, mutuall encouragement, and the blaſt of the Silver Trumpets (the Miniſters of God) ſounded by a Divine breath. When the Temptation was at higheſt, and their ſpirits at the loweſt, that very night ſomething ſhould have been done by man, to
+<pb n="12" facs="tcp:111264:9"/>have undone, in a few houres, all that God had been doing in a week (that man might be humbled, and God the more mag<g ref="char:EOLhyphen"/>nified) the tide of our oppreſſion turned. They moved home<g ref="char:EOLhyphen"/>wards, both ſides were in deſpaire, we would have manifeſted ours, but God hid it; They hid theirs in the Night, but the Morning brought it to light.</p>
+            </div>
+            <div type="part">
+               <head>The remarkable Paſſages were theſe.</head>
+               <p>A Reverend and grave Divine, who had long been a bleſſing to the Town, and had ſeen a reſurrection of it from the Plague, nigh fourty yeers before, was lifted up from the gates of death, and raiſed in the Spirit to promote this Work.</p>
+               <p>A ſpirit of Piety and Devotion in Prayers and ſinging of Pſalms reſted generally upon perſons and families, yea Taverns and Innes, where it might not put in the head formerly. As when <hi>David</hi> in his trouble went and dwelt with <hi>Samuel</hi> at <hi>Na<g ref="char:EOLhyphen"/>joth</hi> in <hi>Ramah,</hi> the Spirit of Prophecie came upon <hi>Sauls</hi> Meſ<g ref="char:EOLhyphen"/>ſengers, the firſt, ſecond, and third time, and upon <hi>Saul</hi> himſelf. <hi>Davids</hi> ſpirit reſted upon his enemies, when God will have him to reſt. They ſay, The Parliament hath made many Con<g ref="char:EOLhyphen"/>verts; but here Papiſts and Atheiſts, and prophane, made many Converts, no better yet, then Parliament Converts. Many of them have proved practicall Arminians, practiſing falling from Grace; ſo many of our Souldiers and people have been worſe ſince, then in the Siege.</p>
+               <p>A Gentleman imployed in the Service (not ſo religious as were to be wiſhed) profeſſed he had ſeen much of God, and hoped it would do him good ſo long as he lived: Friends told him he wanted Armour; He anſwered, He ſaw Gods protection was in ſtead of Armour.</p>
+               <pb n="13" facs="tcp:111264:9"/>
+               <p>
+                  <hi>September</hi> 30. reported, That the <hi>Cheſhire</hi> Trained-Band brought into <hi>Stock-port,</hi> under the command of Maſter <hi>Leigh</hi> of <hi>Adlington,</hi> had promiſed one another not to go over <hi>Lancaſhire</hi>-Bridge. And his own Tenants Petitioned, They might be excu<g ref="char:EOLhyphen"/>ſed from this Service.</p>
+               <p>Twelve men, the Butt of enemies before, and friends be<g ref="char:EOLhyphen"/>hinde, were Shot-free from both.</p>
+               <p>The greateſt hurt they did was by fire, and that to one con<g ref="char:EOLhyphen"/>ceived to be too good a friend of theirs. They lodged with him, in a place (if report lye not) free for all manner of ſin,
+<note place="margin">A faire houſe called, the Lodge.</note> and before their departure payed a good round reckoning in ſmoke and aſhes, ſince which a cooler fire tooke downe their lodging.</p>
+               <p>A neighbour in imminent danger, had emnient preſerva<g ref="char:EOLhyphen"/>tion; five of the Earls Souldiers came to the houſe where he was, he ſeeing their approach, thought a chamber was fitter then the houſe; foure purſue him to his hiding place; three of them drew their ſwords, ſwearing to ſlit out his heart; the fourth, having a Musket, reſolved to do the execution; God ſends up the fifth, in the nick of time, who in his comming up, moved the Muſquet-man, and removed the mouth of the diſcharging Muſquet to another White, one of their owne company, whom God gave in ranſome for this man appoint<g ref="char:EOLhyphen"/>ed to die.</p>
+               <p>Three neighbours returning from <hi>Mancheſter</hi> home, were purſued by a Troope of Horſe: one of them was taken and wounded by part of the Troope. Another part continue their purſuit of the other two: one of them caſts a ſhoe: yet by the enemies miſſing the way once or twice, and caſting a ſhoe alſo, and one telling them they were a mile before, when the enemy was hard at their heels, they eſcaped, and the taken and wounded was reſcued by the Bill-men.</p>
+               <pb n="14" facs="tcp:111264:10"/>
+               <p>It was obſerved, That Chriſtians nearer and further off, were united in one argument of ſupport; <hi>viz.</hi> That God had not muſtered his precious ſervants, from all adjacent parts, in <hi>Man<g ref="char:EOLhyphen"/>cheſter,</hi> to ſhut them up into the hands of the enemy, but rather to ſhew them his ſalvation.</p>
+               <p>Thus we leave <hi>Mancheſter,</hi> compaſſed about with ſongs of deliverance, keeping (I beleeve) a more waking gladſome Sabbath, <hi>October</hi> 2. the day after their releaſe, then of many yeeres before, compaſſing the Throne of ſo great Grace with high ſounding praiſes, with the Souldiers, as they could, <hi>October</hi> 3. and more ſolemnely <hi>October</hi> 6. when our Drums and Muskets, that had formerly ſounded terrour to our ene<g ref="char:EOLhyphen"/>mies, kept ſilence in the Church, whileſt the Saints ſung the Song of <hi>Moſes,</hi> and when their time and turn came to utter their voice in the open aire, with a loud voice and one conſent, clap<g ref="char:EOLhyphen"/>ping their hands apace, they reported God fearfull in praiſes, working wonders.</p>
+               <p>Though the Devil let paſſe the Munday Thankſgiving, which was more confuſed, yet he was ill pleaſed, and laboured to marre the mirth of Thurſday-Thankſgiving, which was inten<g ref="char:EOLhyphen"/>ded to be more Orderly, and Solemne. An Alarm was given <hi>October</hi> 5. that they were coming againſt the Town the ſecond time. This bred ſome diſquiet, but ſerved to awake unto, and to ſweeten the following day of Thankſgiving, which was kept without diſtraction, bleſſed be God. This falſe Alarm repeated <hi>October</hi> 10. God advantaged to lay a Garriſon in the Town, which God intended to uſe for offence, as well as defence, as will afterward appear.</p>
+               <p>About <hi>October</hi> the eleventh, ſome Powder coming from the South to <hi>Mancheſter,</hi> was ſtayed by the Kings Forces, but ſome came ſafe from the North, from <hi>Hull,</hi> the fourteenth of <hi>October.</hi> The two and twentieth day, ſtore of Powder came in, and the foure and twentieth day ſome coming was ſtayed. The joy of this laſt ſupply, was ſadly tempered with
+<pb n="15" facs="tcp:111264:10"/>the accidentall, but mortall, wound of a skilfull and active Souldier.</p>
+               <p>When God had thus gloriouſly appeared in <hi>Salford-Hundred,</hi> the firſt and forwardeſt <hi>Hundred,</hi> he went and diſplayed his Banner in <hi>Blackburne-Hundred,</hi> that onely other <hi>Hundred</hi> in the <hi>Countie,</hi> that appeared in the ſame Cauſe.</p>
+            </div>
+            <div type="part">
+               <head>Blackburne-Hundred.</head>
+               <p>ABout <hi>November</hi> the ſeven and twentieth, the Array, with ſome three hundred armed men (as is conceived) be<g ref="char:EOLhyphen"/>ſides Club-men, poſſeſſed themſelves of <hi>Blackburne,</hi> whence they ſent a party to diſarme <hi>Whalley.</hi> This Alarm awa<g ref="char:EOLhyphen"/>ked the <hi>Militia,</hi> to awake the people by precept. They being awaked were ſoon up, and marched toward <hi>Blackburne,</hi> about two hundred armed men, ſome companies of Club-men, and ſome Horſe-men, but without Arms. The want of skill in Souldiers, and skilfull Captains to ſupply that want, cauſed a conſultation on <hi>Hinfield-Moore,</hi> which received Determination (not from the Diſcoverie of hidden skill, but from the reſo<g ref="char:EOLhyphen"/>lute will of theſe ſtirring Souldiers) to diſpoſſeſſe thoſe forci<g ref="char:EOLhyphen"/>ble Tenants. They ſpeed on with ſhouting, dividing them<g ref="char:EOLhyphen"/>ſelves unto the conduct of two choſen Captains, and come within ſight of the Town about eight of the clock, when the Queen of the night, that had ſhined upon their March, did diſcover them to their enemies: who ſoon let flie from the Steeple, which ordered one Captain and his companie to the South-ſide of the Town, and the other Captain with his com<g ref="char:EOLhyphen"/>pany to the Eaſt-end of the Town, where they found, (though not ſo high, yet) as hot entertainment out of the Town, for the ſpace of two houres. But God that varieth his provi<g ref="char:EOLhyphen"/>dence according to his peoples occaſions, and had maintained
+<pb n="16" facs="tcp:111264:11"/>the paſſages of <hi>Mancheſter,</hi> (that a rightfull people might not <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>) did now open a difficult paſſage to let in his friends, from whom the Array haſted, having disburdened themſelves of their Arms, and reſtored what they took from <hi>Wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ley.</hi> Now had God added an experience of favourable providence, in a new kinde, formerly in a way of Defence, now in a way of Offence, declaring his All-ſufficiencie and co<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> pleatneſſe for Warre, to thoſe two united <hi>Hundreds,</hi> gi<g ref="char:EOLhyphen"/>ving a Shield to <hi>Mancheſter,</hi> and a Sword to <hi>Blackburne,</hi> hereby aſſuring them from heaven, That if they would cleave together, and be mutually aſſiſtant in his Cauſe, they ſhould be variouſly, but ſuitably and compleatly aſſiſted and ſaved, he would be their All-ſufficient God, their God indeed, and to purpoſe.</p>
+               <p>By this time the Moſt-High had lifted us aloft, that we might through weakneſſe of head, or neglect of our foot<g ref="char:EOLhyphen"/>ing, have fallen dangerouſly, had not God as carefully taken us down, as he lifted us up; which he did about the ſixteenth of <hi>December.</hi>
+               </p>
+               <p>The Plundering Array iſſued out of <hi>Wigan,</hi> to provoke the anger, and ſtirre up the courage of the neighbourhood, who to maintain their Proteſtation in their own defence, re<g ref="char:EOLhyphen"/>ſolved to be mutually encouraging and aſſiſtant: but appre<g ref="char:EOLhyphen"/>hending themſelves too weak, requeſted two Captains out of <hi>Mancheſter,</hi> with their companies, to Quarter with them for their ſecurity; which was granted. This new ſtrength was augmented by forces raiſed thereabouts. They wax bold to face <hi>Wigan,</hi> and come off faire. They go to Plunder a Papiſts houſe neere <hi>Wigan.</hi> The enemy ſends a party after them, and is advantaged by their ſecuritie; But leaving their Plunder, and taking to their Armes, they redeem their libertie for this time.</p>
+               <p>The enemy hath not thus done with them, he will be better provided for a ſecond encounter; he <hi>Warrants</hi> the adjacent
+<pb n="17" facs="tcp:111264:11"/>parts to come in to his help:
+<note place="margin">Houghton Common.</note> Our Captains and Companies go to plunder another Papiſts houſe; the Enemy with about a thou<g ref="char:EOLhyphen"/>ſand horſe and foot, makes after them, (as if they had choſen to relieve their confederate Papiſts.) Our Forces will not flie, though but about eighty Muſquetteers, no not from ſtrength, though as yet a door was open, but having drawn their compa<g ref="char:EOLhyphen"/>nies into a Cloſe of ground upon the ſide of <hi>Houghton</hi> Common. They confidently conflict with the enemy, to his great loſſe, to<g ref="char:EOLhyphen"/>wards three hours; but leſt they ſhould eſcape, (as they were nigh to do) God fires their Magazine, and cools their courage; they ſound a Parley, have quarter given them for their lives, but looſe their Arms and Libertie; three Captains and eightſcore ſouldiers were ſhut up into the hand of the enemie, the firſt and fowleſt blow God gave us in this kinde in the County; an humbling blow, and laſting warning: To this day we halt of this blow though moſt of our Captains and Souldiers be relea<g ref="char:EOLhyphen"/>ſed, (bleſſed be God) and well it is if we carry not the marke of this wound when it is healed.</p>
+               <p>Upon this ſad occaſion, God made a comfortable appearance, that he had not ſaved <hi>Mancheſter</hi> to the intent they ſhould ſit ſtill, nor had he placed a Garriſon there, to make their mountain to ſtand ſtrong, but that they might be ready for action at the beat of his Drum, which ſtruck up, after a reconciliation ſought with him by faſting and prayer. The project was for <hi>Leigh,</hi>
+                  <note place="margin">Leigh.</note> our marching out (as they ſay) cauſed the Earl to retreat from his pur<g ref="char:EOLhyphen"/>poſes and beginnings againſt <hi>Bolton.</hi> The day of aſſault, the weep<g ref="char:EOLhyphen"/>ing heavens changed their chear for our encouragement, looked fair upon our enterprize, and triumphant return. The doubt of falling firſt upon the town, or ſome malignant houſes, the cleer<g ref="char:EOLhyphen"/>ing of <hi>Cho-Bent</hi> in the way, made it high <hi>Chriſtmas</hi> Eve ere our men could fall on, (an infortunate time for us, as the Papiſts would judge) but it quickned reſolution, and ſpeeded acti<g ref="char:EOLhyphen"/>on. The Enemie ſuffered them to come within halfe Muſquet ſhot ere they diſcharged, and then plaid deſperately upon our men, in a full Body, to the preſent loſe of onely one. Our men divided themſelves, that they might claſp hands at a diſtance, and
+<pb n="18" facs="tcp:111264:12"/>compaſſe the Town, God intending to ſhut up the enemy into their incloſure; which done they parted again, and marching up at ſeverall places, at the call of the Drum, met at the Market<g ref="char:EOLhyphen"/>place, to receive from the bounty of the God they had ſought, the repair of their loſt Arms and the price of redemption for Cap<g ref="char:EOLhyphen"/>tains and Souldies: This Victory founded in humiliation, was compleated in thankſgiving. It is not to be paſſed by, what a change of <hi>Chriſtmas</hi> was now made in the Countie and King<g ref="char:EOLhyphen"/>dom, ſuch a change in the emptineſſe of great mens houſes, in the places and occaſions of concourſe, in mirth and proviſion, in idleneſſe and recreation, as expreſſed a people very ſinfull, and a God very angry, to imprint both which there was much in the time, if much conſidered.</p>
+               <p>The like <hi>Chriſtmas</hi> kept our Forces at <hi>Blackburne;</hi> The <hi>Militia</hi> having in the Towne four hundred armed men, and ſome Club<g ref="char:EOLhyphen"/>men, the <hi>Array</hi> came againſt the Towne on <hi>Chriſtmas</hi> Eve with five thouſand, and three field Pieces, very early in the morn<g ref="char:EOLhyphen"/>ing, they ſhot off their pieces, with ſhouting, ſaying, <hi>Take heed you Round-heads.</hi> God took heed for us, for we were not afraid of the noiſe, nor hurt once by the eight pound Bullet, though di<g ref="char:EOLhyphen"/>rected againſt us eight and twenty times. We called on them (in vaine) to come within Musquet ſhot. About twelve a Clock they called a parley: The pretence was, if we would yeeld the Towne, and the Arms, and ſubmit to the Earl of <hi>Dar<g ref="char:EOLhyphen"/>by,</hi> they would meditate with him to ſupplicate the King to grant a Pardon. The intent was to carry their god (the greateſt Field-Piece) nearer the Towne, he was too farre off to doe any harme. We (Scot-like) knew not the meaning of a Pardon, pro<g ref="char:EOLhyphen"/>feſſing our ſelves to be for King and Parliament. When we would no Pardon, they laboured to puniſh us, having ſet up their Idoll nearer, by the counſell (as they report) of four or five Prieſts and Jeſui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, and other great Papiſts, whom they had at hand in a tythe Barn: Till Sun-ſetting both ſides plaid fiercely, but then taking advantage of the darkneſſe, they fled in fear, and over-run their great Pieces, truſting more to the night for pro<g ref="char:EOLhyphen"/>tection, than to their own courage or ſtrengh.</p>
+               <pb n="19" facs="tcp:111264:12"/>
+               <p>The ſeventh and eight of <hi>February</hi> were devoted to God in Faſting and Prayer in <hi>Mancheſter,</hi> to ſucceed our Forces that were upon their march. The firſt day was ſpent, and gave ſtrength to our men to march all night,
+<note place="margin">Preſton.</note> and to ſet upon <hi>Preſton</hi> by break of day, the next mornidg, the ſecond day of faſting, when ſome of our men ſoon advantaged themſelves by taking of <hi>Rible-Bridge,</hi> and with unſpeakable courage ſet upon the Town, well fortified and manned, which God gave them in two hours, as a preſent return of prayers. Such courage was raiſed in the Souldiers, that they dared to take hold of their enemies Muſ<g ref="char:EOLhyphen"/>quets put thorow the Loop-holes, as if the miracle of mercy had been again revived, <hi>Pſalme</hi> 91.19. <hi>Thou ſhalt tread upon the Ly<g ref="char:EOLhyphen"/>on and Adder.</hi> And when the Pikes kept them off from the Mud<g ref="char:EOLhyphen"/>walls, yet by breaking thorow an houſe ſome twenty entred the Towne; which ſmall number drew down a Troop of Horſe to take a Prey. But <hi>Moſes, Aaron,</hi> and <hi>Hur</hi> being on the top of the hill, whileſt <hi>Joſhua</hi> was fighting in the Valley; the Captaine of the horſe was killed, and the Troop ſcattered. Then came up the reſt of our men, killed the Major and ſome others, chaſed the Enemy, and commanded the Towne. Here Divine Providence took a noble Captain off his feet before the dangerous diſcharge of a Bullet, he ſtood not to fall, but fell to riſe. We loſt few men in this dangerous aſſault, took ſtore of priſoners and Armes, and came in the nick of time to relieve the well-affected in <hi>Preſton,</hi> and thereabouts, upon whom the <hi>Array</hi> were prepared to im<g ref="char:EOLhyphen"/>poſe an Oath and heavy Taxations. This prey God plucked out of the teeth of the Lion, and paw of the Bear.</p>
+            </div>
+            <div type="part">
+               <head>Haughton Tower.</head>
+               <p>It was not long after, that this glorious victory was clouded by a dark and terrible blow at <hi>Haughton Tower,</hi> where the miſ<g ref="char:EOLhyphen"/>carriages of great and ſmall in the taking of <hi>Preſton,</hi> did us more miſchief, than all our enemies from the entrance of our hoſtility, to that time; as ſometimes <hi>Iſraels</hi> ſin thorow <hi>Balaams</hi> counſell, prevailed to puniſh them more, than Warre or Witchcraft.</p>
+               <p>Our men going down to take the Tower, and finding it pre<g ref="char:EOLhyphen"/>pared
+<pb n="20" facs="tcp:111264:13"/>for entrance, poſſeſſed themſelves of it, till being burdened with the weight of their ſwearing, drunkenneſſe, plundering, and wilfull waſte at <hi>Preſton,</hi> it diſpoſſeſſed them, by the help of Pow<g ref="char:EOLhyphen"/>der, to which their diſorders laid a Train, fired by their neg<g ref="char:EOLhyphen"/>lected Matches, or by that great Souldiers Idoll, <hi>Tobacco.</hi> However it was, ſure it is, that the place ſo firmely united, choſe rather to be torn in pieces then to harbour the poſſeſſours. O that this thundering Alarm might ever ſound in the eares of our Swearing, Curſing, Drunken, Tobacco-abuſing Com<g ref="char:EOLhyphen"/>manders and Souldiers, unto unfaigned Repentance. For do they think that thoſe upon whom the Tower fell, and ſlew them, were ſinners above the reſt of the Army. Let Chriſt that asked a like queſtion, <hi>Luke</hi> 13.4 5. give the Anſwer: <hi>I tell you nay, but except ye repent, ye ſhall all likewiſe periſh: In the day when the Lord viſiteth, he will viſit their ſins upon them,</hi> Exod. 32.34.</p>
+               <p>Though our ſinnes thus clouded our Sun in the cleare day, yet was not the praiſe of Gods glorious goodneſſe and power to be darkned, but to be held forth two ſeverall dayes, to hold proportion with the time of our humiliation: which (if I miſtake not) was done.</p>
+               <p>The latter day of thankſgiving was at <hi>Mancheſter,</hi> the ſix<g ref="char:EOLhyphen"/>teenth of <hi>February,</hi> the unhappy time that the Earle choſe to recover his <hi>Preſtor</hi>-loſſes, in the gaining of poore and pious <hi>Bolton,</hi> which would have been a back-door to <hi>Mancheſter.</hi> The relation of that buſineſſe ſtands thus:</p>
+            </div>
+            <div type="part">
+               <head>Boltons firſt aſſault.</head>
+               <p>THe Earles Major Generall, with about one thouſand Horſe and Foot, Marched towards <hi>Bolton,</hi> ſurprized their Scouts in the way, and diſcovered themſelves to be within a mile of the Town, about nine of the clocke, little ſuſpecting that the <hi>Bolton</hi> Souldiers were that while at Prayer
+<pb n="21" facs="tcp:111264:13"/>in the Church, nor the Souldiers knowing what need they had by Prayer to prepare for Fight. Had they preſently come down upon the Towne, they had taken them unprovi<g ref="char:EOLhyphen"/>ded of Ammunition; But fetching a compaſſe, that they might come on in a more ominous way, by <hi>Great-L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aver,</hi> the Biſhops houſe, the Souldiers were furniſh<g ref="char:EOLhyphen"/>ed to reſiſt. The aſſault was fierce and threatning, the Out<g ref="char:EOLhyphen"/>works outed our men to entertain the Enemy, who ſtayed not there, but followed to the Town, fired an houſe neer the Sentinell, wherein the winde ſerved them to carry the ſmoke upon us; But God preſently commanded the winde to blow from another point, to darken and ſmother the fire-kindlers.</p>
+               <p>Then the Enemy tooke an houſe that joyned to the Mud-Wall, and had Windows above it, which gave them advantage, to beat our men from the Wall, and a Stable that opened into the Street, whence they ſhot the Major through the Arme, and had Commiſſion to kill his Horſe, but to ſave him. This doore they opened to enter, but God ſo faced and feared them by our men, that they turned their backs and ſhut the doore, found paſſage out, and place for retreat. Whileſt the Fight laſted, the vapouring Horſe pre<g ref="char:EOLhyphen"/>vented aſſiſtance, ſo that they compaſſed the people of God a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>out, yea, <hi>They compaſſed th m about, but in the Name of the Lord they did deſtroy them,</hi> Pſal. 118.11. Whileſt Gods people at <hi>Manch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſter</hi> did Sing and Praiſe, the Lord ſet am<g ref="char:EOLhyphen"/>buſhments againſt their enemies at <hi>Bolton;</hi> and, <hi>They were ſmitten,</hi> 2. Chron. 20.21, 22. Here the Canons roared often, but ſtill played childrens play, for they mortally bit but one lad, r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ported to be of their own ſide.</p>
+               <p>Hither their wittie malice brought a new-invented miſ<g ref="char:EOLhyphen"/>chievous Inſtrument, which received this deſcription at <hi>Bolton;</hi> An head about a quarter of a yard long, a ſtaffe of two yards long, or more, put into that head, twelve i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on
+<pb n="22" facs="tcp:111264:14"/>pikes round about, and one in the end to ſtab with; This fierce Weapon (to double their ſcorn) they called, <hi>A Round-head; But no weapon that is formed againſt thee ſhall proſper,</hi> Iſaiah 54.17.</p>
+            </div>
+            <div type="part">
+               <head>Lancaſter.</head>
+               <p>THe report of our taking in of <hi>Preſton</hi> flew to <hi>Lancaſter,</hi> and prepared the Towne and Caſtle for our entrance. Thither was ſent a company of Foot and a Troope of Horſe to take poſſeſſion.</p>
+               <p>This new and enlarged poſſeſſion, was inriched, ho<g ref="char:EOLhyphen"/>noured, and ſecured by the God of the ſea, who had provi<g ref="char:EOLhyphen"/>ded for our welcome,
+<note place="margin">The ſhip laden with great pieces.</note> and Warlike entertainment, a <hi>Dun<g ref="char:EOLhyphen"/>kirke</hi> Ship, a man of War, that came from <hi>Spain,</hi> furni<g ref="char:EOLhyphen"/>ſhed with 21 Peeces of big Braſſe and Iron Ordnance, fit to ſupply the Caſtle, and fortifie other Garriſons. Deſire to ſee this Forreiner, and care to ſecure this captivity, led ſome of note and worth into a teadious and removing captivitie; yet could not the enemy be thus ſatisfied, for the miſſe of ſuch a prize, they labour to deſtroy that by fire which God had ſent by water. But God that ſent the Peeces, ſaved them; The moſt came whole and ſafe to the Caſtle, before and after their Lodging was fired: But malice and enuie followed them.</p>
+               <p>The Earle attended with great ſtrength, beſets <hi>Lancaſter,</hi> and ſends this Summons.</p>
+               <q>
+                  <pb n="23" facs="tcp:111264:14"/>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="summons">
+                           <head>To the Major and Burgeſſes of the <hi>Town of</hi> Lancaſter, <hi>theſe.</hi>
+                           </head>
+                           <opener>
+                              <salute>Gentlemen,</salute>
+                           </opener>
+                           <p>I <hi>Am come into theſe parts by His Majeſties ſpeciall command, to free you from the bon<g ref="char:EOLhyphen"/>dage of theſe declared Traitours, that now oppreſſe you, and endeavour your deſtruction, by bringing you into their own condition; I will not now mention your former neglect of the Kings Service, nor I hope I need not tell you what Forces I have, or might have upon occaſion; nor how joyfully all the Countrey in my March have joyned themſelves unto me. If you will ſub<g ref="char:EOLhyphen"/>mit the Town and your Armes unto me, and likewiſe endeavour with me to reobtaine the Ca<g ref="char:EOLhyphen"/>ſtle, you ſhall have all faire uſage from me: if not, expect from me, what the Law of the Land and of Warre will inflict upon you. Thus expecting your anſwer by ten of the Clock this day. I rest</hi>
+                           </p>
+                           <closer>
+                              <dateline>
+                                 <date>March the 18 eight a clock</date>
+                              </dateline>
+                              <signed>Your friend <hi>Derby.</hi>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb n="24" facs="tcp:111264:15"/>
+               <p>This Summons came firſt to the hands of our Commanders of the Caſtle, who gave the Town leave to returne this An<g ref="char:EOLhyphen"/>ſwer.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="answer">
+                           <opener>
+                              <salute>Right Honourable,</salute>
+                           </opener>
+                           <p>
+                              <hi>WE received yours of this inſtant, and do return this Anſwer; That all our Arms are under the command of Of<g ref="char:EOLhyphen"/>ficers now within our Town for the King and Parliament; ſo that we have not the diſpoſall of them, and at their comming they took and for<g ref="char:EOLhyphen"/>tified the Caſtle, which was never in our com<g ref="char:EOLhyphen"/>mand: and by reaſon thereof, have our Towne likewiſe at their pleaſure; ſo that both the Town and Caſtle are now at the diſpoſall, and will be (by Gods bleſsing) kept for his Majeſtie. And thus we humbly take our leave, and reſt</hi>
+                           </p>
+                           <closer>
+                              <signed>Your Honours <hi>in all due reſpects.</hi>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb n="25" facs="tcp:111264:15"/>
+               <p> THis Anſwer pleaſeth not, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y muſt expect the puniſh<g ref="char:EOLhyphen"/>ments of War, which they found. They fiercely aſſault for an hour in vaine, they turn their rage upon houſes,
+<note place="margin">Lancaſter <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> fired.</note> and by Commiſſion on the ſudden become ready firemen all of them. They fire Houſes and Barnes without the ſentinell, in which they ſacrificed their dead bodies. Thus they heated and ſmoak<g ref="char:EOLhyphen"/>ed our valiant ſouldiers from their Sentinell, and when they were entred the Towne, Papiſt-like, they continue to burn, and butcher, denying Quarter to our men, but rather curſedly quartering them; from which cruelty (raging mad) the moſt of our Forces retired into the Caſtle.</p>
+               <p>The account of this cowardly Conqueſt is thus given in from <hi>Lancaſter;</hi> The dwelling houſes that were burned, were in number fourſcore and ten, containing three hundred Bayes of building: The Barnes, Stables, Cow-houſes, repleniſhed with Corn, Hay, and Cattell, that were burned, were eighty ſix, contayning two hundred and forty Bayes of build<g ref="char:EOLhyphen"/>ing, and one Malt-Kiln of four Bayes of building, with three hundred Windles of Malt therein. By all which it evidently appears, that they diſplayed the Banner of the Skarlet colour<g ref="char:EOLhyphen"/>ed Beaſt.</p>
+               <p>A miracle of mercy was wrought in midſt of this undoing and heart-breaking miſery. They purpoſely and induſtriouſly gave fire to two houſes of perſons well-affected to King and Parliamentt, but they would not take fire, no by no means, though they renewed their indeavours ſeverall times in ſeve<g ref="char:EOLhyphen"/>rall places, though the next houſes were burnt down to the ground, God reſtrained the remnant of their rage, he remem<g ref="char:EOLhyphen"/>bred his promiſe, <hi>Eſay</hi> 43.2. <hi>The flame ſhall not kindle upon thee;</hi> faith quenched the violence of fire, this Shield quenched the fierie darts of the Devill.</p>
+               <p>
+                  <hi>March</hi> 19. 2000. of our Forces marched out for the time<g ref="char:EOLhyphen"/>ly relief of <hi>Lancaſter,</hi>
+                  <note place="margin">Preſton reco<g ref="char:EOLhyphen"/>vered. Blackburn riſled.</note> but how they were divided and divert<g ref="char:EOLhyphen"/>ed, walked and breathed too and fro, whileſt the Earle fires <hi>Lancaſter,</hi> recovered <hi>Preſton,</hi> and riſled <hi>Blackburne;</hi> I have no minde to inquire, but doe ſadly remember; and cannot eaſily forget how theſe tydings affrighted our Commanders
+<pb n="24" facs="tcp:111264:16"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="25" facs="tcp:111264:16"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="26" facs="tcp:111264:17"/>out of <hi>Lancaſter</hi> Caſtle, and expoſed the Caſtle, ſo well ap<g ref="char:EOLhyphen"/>pointed, to the will of the Enemy, had not the mighty GOD, by the aſſiſtance of a miniſter, doubled the ſpirit of the heartie (though headleſſe) Souldiers, to maintain with utmoſt hazzard ſo great a truſt. Thus GOD ſet our Sunne backe many degrees, but not in manifeſt favour, as to <hi>Hezekiah;</hi> yet he brought us to himſelfe in Faſting and Prayer the ſeven and twentieth day of <hi>March,</hi> that we repenting he might repent.</p>
+               <p>This very night came a Meſſenger from <hi>Lancaſter</hi> Caſtle, reporting the ſafetie of the Caſtle, the heartineſſe of the ſoul<g ref="char:EOLhyphen"/>diers, and their comfortable proviſion.</p>
+            </div>
+            <div type="part">
+               <head>Boltons ſecond Aſſault.</head>
+               <p>THe Earle encouraged by ſo manifold ſucceſſe, hopes to gain all; he brings on <hi>Boltons</hi> ſecond hour of ſore Temp<g ref="char:EOLhyphen"/>tation, yet in an unhappy ſeaſon, <hi>March</hi> twenty eight, the day before the Nationall Faſt; and immediately after the Faſt, <hi>March</hi> 27. at <hi>Mancheſter,</hi> becauſe of the Deſigne in hand, and alſo when the Towne was well provided with Souldiers, and <hi>Bury</hi> alſo furniſhed for their ſuccour. The Enemie made no neare approach till three of the Clock; ſo ſoone as they began to draw into a Body upon the Moore, our Cannoneer drew his Cannon into a Croft on the backſide of the Towne, and at the ſecond ſhot killed two horſes neare a mile off. Then a Meſſenger came to ſummon the Towne to ſubmiſſion, but they reſolved not to change the tenure for King and Parliament. When Sun was ſet, and it began to be darke, the Miniſter of the Town prayed with a company of Souldiers, moſt of them Townſmen. The end of Prayer was the beginning of the Fight, and where the Souldiers had even now prayed, they had a furious Aſ<g ref="char:EOLhyphen"/>ſault: The Enemy came on deſperately, even to hand<g ref="char:EOLhyphen"/>blowes,
+<pb n="27" facs="tcp:111264:17"/>and ſome of them leap'd upon the Works, where they found Cluo-law. The enemy retreated, and left ten men dead. After this they made no aſſault till <hi>Bury</hi> Forces were come into the Town; for this ſecond time they were more favourable to leave an open paſſage to our ſuccour. Then they made an aſſault upon the South end of the Towne; by the advantage of the darkneſſe they come cloſe to the Mud-wall. Here they hoped to proſper by fire, as at <hi>Lan<g ref="char:EOLhyphen"/>caſter,</hi> but the light diſcovering their nearneſſe to danger, they fled for ſafetie. After this they marched towards the Weſt, but finding it a buſie and warme corner, they haſted off, and came on no more. The Enemy left upon the ground at this Aſſault three and twenty men. <hi>Bolton</hi> loſt not a man, nor had any hurt done ſave onely one youth ſhot through the arme. O admirable! <hi>In Judah is God knowne, his name is great in Iſraell,</hi> Pſalme 76.1. <hi>Many a time have the af<g ref="char:EOLhyphen"/>flicted me</hi> (may <hi>Bolton</hi> now ſay) <hi>yet they have prevailed againſt me,</hi> Pſalm 129.1, 2.</p>
+               <p>It was the aggravation of <hi>Solomons</hi> ſinne, and Gods anger, That GOD had appeared unto him twice, 1 <hi>Kings</hi> 11.9. pray God it prove not <hi>Boltons</hi> caſe.</p>
+               <p>This Starre appearing promiſed day to ſucceed our night, as it did in the taking of <hi>Wigan, April</hi> 1. that impregnable piece, the Enemies pride and preſumption, our fear and de<g ref="char:EOLhyphen"/>ſpaire; of which we ſometimes ſaid, It was not poſſible to take it by aſſault, or not without much blood, though in<g ref="char:EOLhyphen"/>deed the ſinfulneſſe of the place did render it the weakeſt of all others.</p>
+               <p>Though our Horſe made a retreating onſet before our Foot came up, though two Souldiers were ſlain with a Cannon Bullet in their marching up, yet ſo venterous and daring was the ſtirring reſolution of our Souldiers, that they were ſuddenly ingaged ſo farre, that they muſt go on, or loſe their lives.</p>
+               <pb n="28" facs="tcp:111264:18"/>
+               <p>They goe on and enter, whil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt the Enemy opens a backe doore to go out, that the Towne might be free.</p>
+               <p>A bright beam of this ſhining victory was,
+<note place="margin">This was the Nationall Faſt-week.</note> that God by a mercifull recompence gave it into the hands of <hi>Bolton</hi> Soul<g ref="char:EOLhyphen"/>diers, who had beene twice infeſted from <hi>Wigan,</hi> an evi<g ref="char:EOLhyphen"/>dence that Gods ſide will proſper, bee the diſproportion what it will, poore <hi>Bolton</hi> ſhall abide a double ſtorm when GOD is with it; proud a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d powerfull <hi>Wigan</hi> ſhall fall at once and with eaſe, when GOD is departed from it.</p>
+               <p>This glorious victory found us not gracious enough, it was too much for us well to mannage; it was not ſo gloriouſly atchieved as obſcur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly left; it was turned into mourning by the too-impreſſive report of the Earls returning upon us. The Town, that ſtrong and advantagious Towne, was left that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight.</p>
+               <p>But I love not to rake into, and gaze upon the infirmities of men taken at advantage; in generall I conceive the caſe was that of <hi>Barak, Judg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> 4.8, 9. the worke was undertaken in unbeliefe, ſo that though we g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the day, yet we loſt the honour. Had wee beene ſoaring upon the wing of Faith, we had not fallen ſo low in feare.</p>
+            </div>
+            <div type="part">
+               <head>Warringtons firſt Aſſault.</head>
+               <p>IN great unpreparedneſſe, in debt for <hi>Wigan,</hi> in neglect of meanes of reconciliation, in diſorder and conſidence of our Souldiers, we aſſaulted <hi>Warrington</hi> the fift day of <hi>April,</hi> about four of the Clock, till the might tooke us off. Thither wee came to leave our dead, to diſtreſſe the well-affected in the Towne, to ſhame our cou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>age, and in all to ſuffer the puniſh<g ref="char:EOLhyphen"/>ment
+<pb n="29" facs="tcp:111264:18"/>of former miſcarriages, wherein <hi>Cheſhire</hi> deeply ſhared with us. Now we had the greateſt ſtrength abroad, partly our own, and partly borrowed: But God delighteth not in the ſtrength of the horſe, he taketh not pleaſure in the legs of a man; the Lord taketh pleaſure in them that fear him, in thoſe that hope in his mercy, <hi>Pſal.</hi> 147.10, 11. <hi>Wigan</hi> (thought impregnable) proved eaſie; <hi>Warrington</hi> (thought eaſie) pro<g ref="char:EOLhyphen"/>ved now impregnable: This ſeaſonable check, chode us to du<g ref="char:EOLhyphen"/>ty, to publike thankſgiving for <hi>Wigan</hi>-mercy, the eleventh of <hi>April;</hi> to humiliation, under <hi>Warrington</hi>-diſpleaſure, the thir<g ref="char:EOLhyphen"/>teenth of <hi>April.</hi> The day of thankſgiving was made joyfull by the in-coming of Ammunition; the day of humiliation was delivered of that wonder, or confluence of wonders about <hi>Padiham.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The riſe of Blackburne.</head>
+               <p>THe Earle, accompanied with 2000 (<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s is judged) came to <hi>Rihcheſter</hi> over night, to <hi>VVhalley</hi> by eight of the clocke, to a Green not far from <hi>Padiham:</hi> Our ſide had but two or three hundred Fire-men, and fourſcore or a hundred Horſe, ſo that in means there was no poſſibility of ſafety. When we went out firſt to meet them, there was not above an hundred Fire-men, yet ſuch reſolution God gave them, above and a<g ref="char:EOLhyphen"/>gainſt all ſenſe and reaſon, that they would needs let flie at them, and God ſuddenly turned them to flight: Our encou<g ref="char:EOLhyphen"/>raged Souldiers purſued them to <hi>Whalley</hi> (where their two or three ſhots of Powder (all they at firſt had to accompliſh ſo great a work) were well encreaſed by their enemies ſtore) from thence to the Sands, thence to <hi>Lango</hi> Green, thence to <hi>Rible</hi> ſide, called <hi>Salsbury</hi> Boat: The Horſe and Foot took <hi>Rible,</hi> many of the Foot wading to the chin. In all this Chaſe, being about five miles in length, they often turned their faces, but as often turned their backs, and haſted away, till they had quit the Hundred, and no more infeſted it.</p>
+               <pb n="30" facs="tcp:111264:19"/>
+               <p>Thus God remembred us in our low eſtate; he choſe the w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ak things of the world, to confound the things that are migh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, that no fleſh ſhould glory in his preſence; O my ſoul, thou haſt trodden down ſtrength, God hath delivered <hi>Siſera</hi> into he hand of a woman. H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve they not ſped? have they not divided the prey? (they boaſted in the morning what they would do, and directed their Warrants to the Countrey to come in the day following, to compound with the Earl for their lib<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rty) So let all thine enemies periſh, O God; but let them that love thee be as the Sun when he goeth forth in hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> might, riſing higher and higher, till he come to a Noon-day V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctory.</p>
+            </div>
+            <div type="part">
+               <head>Lancaſter Voyage.</head>
+               <p>OUr deſire to ſecure our Garriſons, to relieve <hi>Warrington,</hi> which we had occaſionally oppreſſed, and to improve thoſe new Talents lent us by God, and ſent us by Sea, made us thinke upon a Voyage to <hi>Lancaſter;</hi> the fairneſſe of the wea<g ref="char:EOLhyphen"/>ther, and drineſſe of the way were ſtrong encouragements. We began our March the eight and twentieth day of <hi>April;</hi> the preſence of God was fought for ſafe Convoy; and ſo ter<g ref="char:EOLhyphen"/>rible was the preſence that accompanied our March (what elſe c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n it be imputed to?) that our Forces paſſed ſafely thorow <hi>Wigan</hi> (though the enemy found his former neſt after we had taken it) <hi>Preſcot, Ormeskirk</hi> (where we marred an intended Muſter) and <hi>Preſton</hi> (that recovered <hi>Preſton</hi>) Whence (hear<g ref="char:EOLhyphen"/>ing our friends in <hi>Lancaſhire</hi> were in ſome danger (though it was nothing but the Earls haſting into <hi>Yorke-ſhire,</hi> and the reſt of the Forces ſpeeding to <hi>Hornby</hi> Caſtle) we ſtretched our march to <hi>Lancaſter.</hi>
+               </p>
+               <p>In all this way, as we moved, ſo the enemy removed; we ſaw nothing remarkable in them, but cruelty and cowardice: For ſome Troops of Horſe meeting a poor boy unarmed, which out-went his company, clave his head, and barbarouſly mangled him: Alſo thereabouts the enemy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fter a ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight skir<g ref="char:EOLhyphen"/>miſh, overcame by flight.</p>
+               <pb n="31" facs="tcp:111264:19"/>
+               <p>Our arrive at <hi>Lancaſter</hi> was welcomed with the ſafety of the Caſtle, the good poſture of the Garriſon, their comfortable proviſion, and the well nigh preparedneſſe of the Carriage: And after we had refreſhed our Army a few days with the ſight of <hi>Tburland</hi> Caſtle, and the report of our forraigners againſt <hi>Hornby</hi> Caſtle, we advanced homeward the ninth day of <hi>May,</hi> and under the former gracious Conduct came ſafe home, though laden with the weight of twelve whole Pieces, and two broken ones (the reſt fortifying the Caſtle) all which we ac<g ref="char:EOLhyphen"/>knowledged in ſolemne thankſgiving in <hi>Mancheſter,</hi> the fix<g ref="char:EOLhyphen"/>teenth of <hi>May.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Warrington Siege.</head>
+               <p>ALl this while the cry of oppreſſed <hi>Warrington</hi> importu<g ref="char:EOLhyphen"/>ned heaven, and compaſſion wrought in us; and ha<g ref="char:EOLhyphen"/>ving this far-fetched terrifying aſſiſtance, we entred upon a new and proſperous Voyage the twentieth day of <hi>May:</hi> The three and twentieth of <hi>May</hi> was deſigned for Faſting and Prayer in <hi>Mancheſter,</hi> to meet with the beginning of the en<g ref="char:EOLhyphen"/>terpriſe againſt <hi>Warrington.</hi>
+               </p>
+               <p>Whilſt the duty was in performing, tidings came of the ta<g ref="char:EOLhyphen"/>king of <hi>Winwick</hi> Church and Steeple, they on the Steeple ſtanding on terms, till God ſent a deadly meſſenger out of a Fowling-Piece to one of them; alſo a ſtrong Hall poſſeſſed by profeſſed Romane Catholikes, and ſtored with Proviſion, as if it had been purpoſely laid in, both for our ſupply and eaſe.</p>
+               <p>In this <hi>Warrington</hi> Siege, ſo good a friend was God to our faith, that the greateſt Peece was made unuſefull, the ſecond time it was in uſe; and without the terrour of thoſe Idols, the living God gave us the Church and Steeple the 26 of <hi>May,</hi> with the loſſe of one man; and that ſtrong Hold upon terru<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi> 28.</p>
+               <p>A Providence much to be obſerved in this Siege, was this: One night our men were to work within half Musket ſhot of the Town; It was a great calme, that they could not worke,
+<pb n="32" facs="tcp:111264:20"/>but the enemy would hear: When ſome went to worke, others went to prayers; and God raiſed a great winde, that took away the noiſe: a Providence not altogether unlike what I have heard in <hi>Boſton:</hi> The Chancellor gave Organs to <hi>Boſton;</hi> before they breath in that new world, the well-aff<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cted pray<g ref="char:punc">▪</g> after their prayers, a mighty winde forceth its paſſage into the Church, blows down the Organs, brake them, and ſtopt their brea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h.</p>
+               <p>That which ripened the enemies ruine, was their hard uſage of priſoners, and well-affected in the Town, their ex<g ref="char:EOLhyphen"/>treme cruelty in the Countrey, killing a godly man and his wife in their owne houſe; and their profeſſed confidence and pride in their ſtrong Hold, appearing by their hanging out a Flag of Defiance upon the higheſt Chimney.</p>
+               <p>At this time waited a Ship at <hi>Liverpoole,</hi> watching this friend<g ref="char:EOLhyphen"/>ly opportunity to unburden it ſelf for <hi>Cheſhire,</hi> and to ſupply us with Powder, <hi>Liverpool</hi> readily giving entertainment and aſ<g ref="char:EOLhyphen"/>ſiſtance to it and us. Some recompence God made to tyred <hi>Warrington,</hi> in the ſhortneſſe of the Siege, and ſecurity from ſpoyle, which we charitably made an Article of our Peace: This Return of Prayers, called in our Vows in <hi>Mancheſter, June</hi> 1.</p>
+            </div>
+            <div type="part">
+               <head>Lancaſter ſuccoured.</head>
+               <p>ABout this time <hi>Lancaſter,</hi> that had relieved us, called aloud for relief, having been begirt twenty dayes, the re<g ref="char:EOLhyphen"/>port of our march raiſed the ſiege, and ſtrongly garriſoned <hi>Hornby</hi> and <hi>Thurſland</hi> Caſtles; the reſt of the Forces marching into <hi>VVeſtmerland,</hi> and thence into <hi>Yorke-ſhire,</hi> to joyn with the Queen of Armies. Having relieved our Garriſon, we marched toward the Caſtles; the a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tempt upon one, was bleſ<g ref="char:EOLhyphen"/>ſed to win both.
+<note place="margin">Hornby Ca<g ref="char:EOLhyphen"/>ſtle.</note> Three foot-Companies being d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>awn out to view <hi>Horneby</hi> Caſtle, they fell upon an Ambuſca<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o of the enemy within halfe Musket ſhot, they gave Fire upon the whole Body of Horſe and Foot; But GOD made all ſhot<g ref="char:EOLhyphen"/>free, a promiſing Providenc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <pb n="33" facs="tcp:111264:20"/>
+               <p>This attempt was judged dangerous in the undertaking, and diſhonourable in the Iſſue, but incouraged by a weighty and ſeaſonable word of a preſent Divine.</p>
+               <p>The Onſet was led on, not altogether unlike that of <hi>David</hi> upon the <hi>Amalekites,</hi> 1 <hi>Sam.</hi> 30.11.</p>
+               <p>Our Scouts took a ſouldier that had eſcaped out of the Ca<g ref="char:EOLhyphen"/>ſtle, who gave us true information of the ſtate of things, taught us rather to enter in by the Window (a great Window at the end of the Hall) and undertook to lead the Forces to this place of advantage.</p>
+               <p>The Companies drawn out for this Deſigne, accommo<g ref="char:EOLhyphen"/>dated with ſcaling Ladders, great Hammers, Ropes, Mat<g ref="char:EOLhyphen"/>tocks, and ſome combuſtible matter for the Gates, were ap<g ref="char:EOLhyphen"/>pointed to play on that ſide towards the Gates, to draw them from that ſide, where the reſt were to force their entrance. The fore Forces played upon the Caſtle and Church, not without great danger of Iron and Stones, till they put fire to the Gates, which ſmoaked them further off: The back-for<g ref="char:EOLhyphen"/>ces were as buſie at the Window, ſcaling and hammering; Which undaunted reſolution to enter by the Gates and Win<g ref="char:EOLhyphen"/>dow, ſpeeded the cry of the Enemy for Quarter, which was ſpeedily granted, the gates opened, and the Caſtle entred.</p>
+               <p>In this aſſault, for two hours ſpace, we loſt but two Com<g ref="char:EOLhyphen"/>mon ſouldiers, a third dangerouſly wounded, ſome other hurt with ſtones, but not mortally.</p>
+            </div>
+            <div type="part">
+               <head>Thurſland Caſtle.</head>
+               <p>THe next day <hi>Thurſland</hi> Caſtle was delivered upon un<g ref="char:EOLhyphen"/>kept conditions, which would be a wonder here and elſewhere, did we not know the principle, <hi>No faith is to be kept with Heretikes.</hi>
+               </p>
+               <p>By this time mercie hath ſet, as a Crowne upon the head of poor <hi>Lancaſhire,</hi> the rich bleſſing of dying <hi>Moſes, Deut.</hi> 33.29. <hi>Happy art thou, O Lancaſhire who is like unto thee, O people! Saved by the Lord, the Shield of thy help, and
+<pb n="34" facs="tcp:111264:21"/>who is the ſword of thy excellency, and thine Enemies ſhall be found lyars unto thee, and thou ſhalt tread upon their high pla<g ref="char:EOLhyphen"/>ces.</hi> And I may revive <hi>Habakuks</hi> Song, <hi>Hab.</hi> 3.12, 13, 14. <hi>Thou didſt march thorow the land in indignation, thou did threſh the H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>athen in anger, thou wenteſt forth for the ſalvation of thy P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>pl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, even for ſalvation with thine Annointed; thou woundedſt the h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ad out of the houſe of the wicked, by diſcovering the founda<g ref="char:EOLhyphen"/>tion unto the neeke. Selah. Though didſt ſtrike thorow with his ſtaves, the head of his Villages; they came out as a whirlwinde to ſcatter me, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir rejoycing was as to devour the poor ſecretly.</hi>
+               </p>
+               <p>When God had thus rode thorow our County upon his Horſes and Charets of Salvation, the whole County trium<g ref="char:EOLhyphen"/>phed in his praiſe, <hi>Iuly</hi> 5. <hi>For our mouth was inlarged over our Enemies, our heart did rejoyce in his Salvation.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Having thus led the Reader over the ſeverall Beds of Flowers in this Garden of Providence, I will gather and binde up a Poſie of ſelect and fra<g ref="char:EOLhyphen"/>grant Flowers, and ſweetly conclude this com<g ref="char:EOLhyphen"/>fortable Hiſtorie.</head>
+               <p n="1">1. <hi>Our Nobles have been of our ſelves, and our Go<g ref="char:EOLhyphen"/>vernours have proceeded out of the midſt of us,</hi> Jer. 30.20. <hi>Some of them the ſubject of earneſt Prayers, Pub<g ref="char:EOLhyphen"/>like, Private, Ordinary, Extraordinary, for ſeven yeers ſpace, if not for ten.</hi>
+               </p>
+               <p n="2">2. <hi>Our Commanders and Leaders have had unpara<g ref="char:EOLhyphen"/>lelled preſervation, we lost but one man of note, but one Captain in all our conflicts, and him, through extream crueltie; he asked quarter, but all was on fire in</hi> Lanca<g ref="char:EOLhyphen"/>ſter,
+<pb n="35" facs="tcp:111264:21"/>
+                  <hi>and they would give none, but ſought rather cruelly to kill him; then to kill him, to kill him by many rather then by one: God covered their heads in the day of bat<g ref="char:EOLhyphen"/>tell,</hi> Pſal. 140.7. He gave them the ſhield of his ſalvation, <hi>Pſal.</hi> 18.35.</p>
+               <p n="3">3. <hi>Duties of humiliation and thankſgiving (which were cooped up in corners, as deeds of darkneſſe, by the Bi<g ref="char:EOLhyphen"/>ſhops, were now by the countenance of authority brought in<g ref="char:EOLhyphen"/>to the open aſſembly, as the onely way of ſucceſſe and pro<g ref="char:EOLhyphen"/>ſperity, in our juſt defence and offence.</hi>
+               </p>
+               <p n="4">4. <hi>Evident undenyable anſwers of Prayers, ſome<g ref="char:EOLhyphen"/>times at preſent, ſometimes ſoon after.</hi>
+               </p>
+               <p n="5">5. <hi>Mercies denied at one time with ſtrokes, have been granted at another time with full-handed favours.</hi>
+               </p>
+               <p n="6">6. <hi>God hath remembred us in our low eſtate, our higheſt Tide hath followed our loweſt Ebbe, Gods power hath been perfected in our weakneſſe, his beauty hath ſhi<g ref="char:EOLhyphen"/>ned in our confuſions.</hi>
+               </p>
+               <p n="7">7. <hi>God hath ſhared his imployments and ſucceſſes in a kinde of proportion, amongſt our Commanders and Souldiers, that all might have ſome, and none might have all, that all might be humbled, and none diſcouraged; Herein hath God wiſely wrought for their unity, mutuall reſpects, aſsiſtance, encouragement and honour.</hi>
+               </p>
+               <p n="8">8. <hi>Mercies and afflictions have counter-poized one another; In all this way of providence mercies have been imbittered, and croſſes ſweetned; comfort and humilia<g ref="char:EOLhyphen"/>tion have watched and waited on each other. Gods con<g ref="char:EOLhyphen"/>ſtant project hath been, to nouriſh grace, and ſubdue corruption at the ſame time<g ref="char:punc">▪</g> a worke no leſſe happy then hard.</hi>
+               </p>
+               <pb n="36" facs="tcp:111264:22"/>
+               <p>ALL I would ſay more, is to the County; much hath beene ſaid of it, and of GOD in it: Let me ſpeake <hi>Samuels</hi> counſell, 1 <hi>Samuel</hi> 12.14. <hi>Onely feare the Lord, and ſerve him in truth, with all your heart, for conſider how great things he hath done for you.</hi> Adde <hi>Joſhua</hi>'s warning, <hi>Joſh.</hi> 24.20. <hi>If ye forſake the Lord, and ſerve ſtrange gods, then will he turne and doe you hurt, and conſume you af<g ref="char:EOLhyphen"/>ter he hath done you good.</hi> Which GOD forbid for his Chriſts ſake.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111264:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
